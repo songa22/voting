@@ -1,0 +1,13 @@
+Shamberere College
+
+President
+Deputy President
+General Secretary
+Finance Secretary
+Academics Secretary 
+Then instead of ID let's use Reg No. 
+Courses include 
+DICT
+DCS
+DIS
+CICT
